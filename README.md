@@ -91,12 +91,4 @@ A brief explanation on the basic workflow of the application.
 
 ---
 
-\# That is all.
 
-_Feel free to contribute._
-
----
-
-Best,
-
-[Bibek Aryal](https://arlbibek.github.io/)
