@@ -52,8 +52,8 @@ A brief explanation on the basic workflow of the application.
 1. Clone this repository
 
    ```shell
-   git clone https://github.com/arlbibek/dVoting.git
-   cd dVoting
+   git clone git@github.com:vijith07/electionDAP.git
+   cd electionDAP
    ```
 
 1. Run local Ethereum blockchain
